@@ -8,6 +8,4 @@ This is first attempt to work with [Figma](https://www.figma.com/), tool for des
 * no local copy of the repo
 
 First/landing page of the design:
-![example_ui_design](https://github.com/heniczyna/figma_starting_page/blob/main/example_ui_design.PNG)
-
 ![example_ui_design](https://raw.githubusercontent.com/heniczyna/figma_starting_page/main/example_ui_design.PNG)
