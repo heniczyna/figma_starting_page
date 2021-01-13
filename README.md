@@ -5,6 +5,10 @@ This is first attempt to work with [Figma](https://www.figma.com/), tool for des
 * useful link [UI Goodies](http://www.uigoodies.com/)
   * background used [UI Goodies](http://www.uigoodies.com/) -> Patterns and backgrounds -> Subtle Patterns which leads to [this site](https://www.toptal.com/designers/subtlepatterns/?ref=uigoodies.com) -> [Greek Vase Pattern](https://www.toptal.com/designers/subtlepatterns/greek-vase-pattern/)
 * Figma plugins installed: Iconify, Lorem ipsum, Unsplash
+* import ***1_design.fig*** to your account and explore the project, therefore:
+  * download ***1_design.fig*** to your local disc drive,
+  * after logging-in to Figma you will see **Import** icon in the upper right corner of the page, so hit it and choose the downloaded ***1_design.fig***,
+  * that's all, should work straight away
 * no local copy of the repo
 
 First/landing page of the design:
