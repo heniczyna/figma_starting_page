@@ -33,3 +33,4 @@ Seems that relative links also work:
 * Autoflow plugin (`Plugins` -> `Browse Plugins in Community` -> search for `Autoflow` -> `Install`)
   * this is for automatic drawing arrows between frames to create flowcharts
   * when you want to use this plugin after installation just hit `Plugins` -> `Autoflow`
+* `Pen` and `Bend` tool: too much to write, just have a look at [Figma Tutorial: Pen Tool Basics & Vector Networks](https://www.youtube.com/watch?v=5x2uHUB_pzw)
