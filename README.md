@@ -34,3 +34,7 @@ Seems that relative links also work:
   * this is for automatic drawing arrows between frames to create flowcharts
   * when you want to use this plugin after installation just hit `Plugins` -> `Autoflow`
 * `Pen` and `Bend` tool: too much to write, just have a look at [Figma Tutorial: Pen Tool Basics & Vector Networks](https://www.youtube.com/watch?v=5x2uHUB_pzw)
+
+# Useful resources with graphics/illustrations/icons
+* [Flaticon](https://www.flaticon.com/) - look for particular icon on the main page and then switch tab to `Free`
+
