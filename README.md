@@ -37,6 +37,16 @@ Seems that relative links also work:
 * `Pen` and `Bend` tool: too much to write, just have a look at [Figma Tutorial: Pen Tool Basics & Vector Networks](https://www.youtube.com/watch?v=5x2uHUB_pzw)
 * `Quick actions` - search tool for finding options you need, use `Ctrl+/` or `Figma menu` ->  `Quick actions`
 
+# Useful functions of GIMP
+* Remove background or make it transparent (based on this [tutorial](https://thomas-cokelaer.info/blog/2016/09/gimp-how-to-make-a-transparent-background/))
+  * open image and make sure `Layer` -> `Transparency` -> `Add Alpha Channel` is added (this makes sure your image can store transparency data)
+    * when it is greyed out already, then that is fine, when I opened `.jpg` file then this action needed to be done
+  * select the background which you want to make transparent (you can start with selection tool called `Fuzzy Select`: `Tools` -> `Selection Tools` -> `Fuzzy Select` or just hit `U` shortcut)
+  * hit `Delete`
+  * when background is not uniform, for example it is white with some grey areas, some additional manual work with selection is required, you can then zoom-in and use `Tools` -> `Selection Tools` -> `Rectangle Select` and hit `Delete` again, repeat the process if needed (or you can still use `Fuzzy Select`)
+  * once all removing job is done, choose `File` -> `Export As` and double-check you are exporting to `.png` file (`Select File Type (By Extension)`) and keep all settings default
+  * you should then receive image without background (or background is transparent)
+
 # Useful resources with graphics/illustrations/icons
 * [UI Goodies](https://uigoodies.com/) - hit `Illustrations` to look for interesting graphics
 * [Flaticon](https://www.flaticon.com/) - look for particular icon on the main page and then switch tab to `Free`
